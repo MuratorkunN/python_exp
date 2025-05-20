@@ -1,1 +1,1 @@
-Here are my experimental codes, for learning Python language.
+Here are my experimental codes, for learning Python libraries.
